@@ -2,7 +2,7 @@
 
 This repository contains the manually annotated data sets and additional material for the paper:
 
-Katrin Ortmann (to appear). Automatic Phrase Recognition in Historical German.
+Katrin Ortmann. Automatic Phrase Recognition in Historical German. Accepted for [KONVENS 2021](https://konvens2021.phil.hhu.de/).
 
 ## Gold data
 
