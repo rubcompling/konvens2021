@@ -27,6 +27,10 @@ The following phrase types are included:
 
 The trained grammars for the [Berkeley parser](https://github.com/slavpetrov/berkeleyparser) (v.1.7; Petrov et al., 2006) are included in the `models` folder.
 
+## License
+
+The parser models and the DTA corpus are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The HIPKON corpus is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
 ## References
 
 BBAW. 2019. Deutsches Textarchiv. Grundlage für ein Referenzkorpus der neuhochdeutschen Sprache. Berlin-Brandenburgische Akademie der Wissenschaften; http://www.deutschestextarchiv.de/.
