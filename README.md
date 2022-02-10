@@ -29,7 +29,7 @@ The trained grammars for the [Berkeley parser](https://github.com/slavpetrov/ber
 
 ## License
 
-The parser models and the DTA corpus are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The HIPKON corpus is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+The parser models and the DTA corpus are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), and the HIPKON corpus is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/). The modern data set is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), except for the TED talk sample, which is provided under [CC BY–NC–ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de).
 
 ## References
 
